@@ -1,5 +1,5 @@
 Summary:	LDP Emacs Speak User Guide
-Summary(pl):	Podrêcznik Emacs Speak LDP
+Summary(pl):	Podrêcznik LDP dla u¿ytkowników Emacs Speak
 Name:		espk-ug
 Version:	1.3
 Release:	1
