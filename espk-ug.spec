@@ -5,9 +5,10 @@ Version:	1.3
 Release:	1
 License:	distributable
 Group:		Documentation
-Source0:	http://www.tldp.org/LDP/%{name}/%{name}.html.tar.gz
+Source0:	http://www.tldp.org/LDP/espk-ug/%{name}.html.tar.gz
 # Source0-md5:	7fe2a70206d48d830e4ba641dec2be7a
 URL:		http://www.tldp.org/LDP/abs/html/index.html
+Requires:	LDP-base
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
@@ -28,7 +29,6 @@ stosowane.
 %install
 rm -rf $RPM_BUILD_ROOT
 install -d $RPM_BUILD_ROOT%{_docdir}/LDP/espk-ug
-
 cp -ar * $RPM_BUILD_ROOT%{_docdir}/LDP/espk-ug
 
 %clean
