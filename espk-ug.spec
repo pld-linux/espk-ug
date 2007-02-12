@@ -1,5 +1,5 @@
 Summary:	LDP Emacs Speak User Guide
-Summary(pl):	Podrêcznik LDP dla u¿ytkowników Emacs Speak
+Summary(pl.UTF-8):   PodrÄ™cznik LDP dla uÅ¼ytkownikÃ³w Emacs Speak
 Name:		espk-ug
 Version:	1.3
 Release:	1
@@ -17,10 +17,10 @@ This document helps Emacspeak users become familiar with Emacs as an
 audio desktop and provides tutorials on many common tasks and the
 Emacs applications available to perform those tasks.
 
-%description -l pl
-Ten dokument pomaga u¿ytkownikom Emacspeak zaznajomiæ siê z Emacsem
-jako desktopem g³osowym i dostarcza przyk³adów najczê¶ciej
-wykonywanych zadañ. Opisuje te¿ aplikacje Emacsa, które s± przy tym
+%description -l pl.UTF-8
+Ten dokument pomaga uÅ¼ytkownikom Emacspeak zaznajomiÄ‡ siÄ™ z Emacsem
+jako desktopem gÅ‚osowym i dostarcza przykÅ‚adÃ³w najczÄ™Å›ciej
+wykonywanych zadaÅ„. Opisuje teÅ¼ aplikacje Emacsa, ktÃ³re sÄ… przy tym
 stosowane.
 
 %prep
